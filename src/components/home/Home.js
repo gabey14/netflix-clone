@@ -12,6 +12,7 @@ function Home() {
       <Header />
       {/* Header */}
       {/* Row */}
+      <br />
       <Row title="Netflix Originals" movieType="netflix-originals" />
       <Row title="Trending Now" movieType="trending-now" />
       <Row title="Top Rated" movieType="top-rated" />
